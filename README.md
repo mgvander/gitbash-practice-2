@@ -2,7 +2,7 @@
 
 ## Author
 
-David Barnes
+Michael VanderMyde
 
 ## Description
 
